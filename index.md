@@ -32,7 +32,7 @@ Imagen SARS
 
 10. La vesícula sale de la célula por medio de la exocitosis
 
-!.[Mecanismo SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Untitled.png)
+![Mecanismo SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Untitled.png)
 ### ¿Cómo se da la infección de COVID-19?
 
 Para entender cómo es que el COVID-19 puede resultar fatal es importante recapitular un poco el mecanismo de contagio del SARS-CoV-2. Cuando el pequeño virus encuentra su camino a través del tracto respiratorio, la proteína S (o proteína Spike) del virus se une a un receptor, llamado enzima convertidora de angiotensina (ACE2 por sus siglas en inglés), muy común en todo el cuerpo humano y muy abundante en los recubrimientos al interior de la nariz. 
