@@ -11,7 +11,7 @@ Imagen SARS
 
 
 ### Ciclo Viral del SARS-COV2
-
+![Ciclo viral SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Ciclo%20viral%20SARS-COV2.png)
 1. La entrada del virus se debe a la unión de la proteína Spike (S) con del receptor de la Enzima Convertidora de Angiotensina (ACE2 por sus siglas en inglés) para permitir la fusión con la membrana del huésped.
 
 2. Tras esa unión se rompe la envoltura proteica en la que se encontraba el ARN viral y este es liberado en el citoplasma de la célula hospedera.
