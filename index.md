@@ -11,7 +11,10 @@ Imagen SARS
 
 
 ### Ciclo Viral del SARS-COV2
-![Ciclo viral SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Ciclo%20viral%20SARS-COV2.png)
+
+                ![Ciclo viral SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Ciclo%20viral%20SARS-COV2.png)
+                Created with BioRender.com
+                
 1. La entrada del virus se debe a la unión de la proteína Spike (S) con del receptor de la Enzima Convertidora de Angiotensina (ACE2 por sus siglas en inglés) para permitir la fusión con la membrana del huésped.
 
 2. Tras esa unión se rompe la envoltura proteica en la que se encontraba el ARN viral y este es liberado en el citoplasma de la célula hospedera.
@@ -32,9 +35,13 @@ Imagen SARS
 
 10. La vesícula sale de la célula por medio de la exocitosis
 
+
+### ¿Cómo se da la infección de COVID-19?
+
                     ![Mecanismo SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Untitled.png)
                     Created with BioRender.com
-### ¿Cómo se da la infección de COVID-19?
+
+
 
 Para entender cómo es que el COVID-19 puede resultar fatal es importante recapitular un poco el mecanismo de contagio del SARS-CoV-2. Cuando el pequeño virus encuentra su camino a través del tracto respiratorio, la proteína S (o proteína Spike) del virus se une a un receptor, llamado enzima convertidora de angiotensina (ACE2 por sus siglas en inglés), muy común en todo el cuerpo humano y muy abundante en los recubrimientos al interior de la nariz. 
 
