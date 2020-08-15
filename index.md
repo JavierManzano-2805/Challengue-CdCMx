@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/JavierManzano-2805/Challen
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### ¿Cómo se da la infección de COVID-19?
+
+Para entender cómo es que el COVID-19 puede resultar fatal es importante recapitular un poco el mecanismo de contagio del SARS-CoV-2. Cuando el pequeño virus encuentra su camino a través del tracto respiratorio, la proteína S (o proteína Spike) del virus se une a un receptor, llamado enzima convertidora de angiotensina (ACE2 por sus siglas en inglés), muy común en todo el cuerpo humano y muy abundante en los recubrimientos al interior de la nariz. 
+
+Este receptor normalmente ayuda a regular la presión sanguínea, pero al encontrarse con la proteína S permite el acceso del virus a las células. Una vez dentro de una célula, el virus secuestra la maquinaria celular para producir más copias de sí mismo. A medida que el virus se multiplica, las personas pueden -o no- presentar síntomas (tos seca, fiebre, garganta irritada, pérdida del olfato y el gusto y/o dolores de cabeza y cuerpo). En ambos casos, las personas infectadas liberan una gran cantidad de partículas virales a su alrededor y son altamente contagiosas
+
 ### Ciclo Viral del SARS-COV2
 
 1. La entrada del virus se debe a la unión de la proteína Spike (S) con del receptor de la Enzima Convertidora de Angiotensina (ACE2 por sus siglas en inglés) para permitir la fusión con la membrana del huésped.
@@ -25,6 +31,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 9. Posteriormente, esta envoltura se ensambla con la nucleocápside para formar una vesícula de Golgi con la molécula viral dentro.
 
 10. La vesícula sale de la célula por medio de la exocitosis
+
+### ¿Qué órganos afecta el SARS-COV2?
+
+Los pulmones: 
+
+
+Si el sistema inmune no es capaz de derrotar al virus en esta primera etapa, éste viaja a través de la tráquea hacia los pulmones, en donde puede resultar mortal. Una vez en los pulmones, el virus ataca principalmente a los alvéolos, cuyas células también son ricas en receptores ACE2. Normalmente en los alvéolos se lleva a cabo el intercambio de oxígeno y dióxido de carbono en la sangre. Sin embargo, en presencia del virus, el sistema inmune libera unas moléculas llamadas quimiocinas y citocinas. Las primeras provocan una reacción de inflamación y las citocinas marcan a las células infectadas para destruirlas. Las células muertas se convierten en un fluido que comúnmente conocemos como pus. Ésta es la patología conocida como neumonía. Sus síntomas, ya los conocemos: tos, fiebre, y respiraciones rápidas y entrecortadas. 
+
+La mayoría de los pacientes que padecen neumonía,  se recuperan con un poco de oxígeno suplementario. Sin embargo, hay casos que desarrollan una condición llamada síndrome de dificultad de respiración aguda, donde los niveles de oxígeno en la sangre disminuyen rápidamente y aumenta la dificultad para respirar. En las tomografías y rayos-x de estos pacientes, se observan manchas negras. Estas manchas negras significa que hay falta de oxígeno y es la evidencia más clara para determinar que el paciente requiere un respirador (o ventilador). Desafortunadamente, muchos de estos pacientes mueren y en las autopsias se encuentra que los alvéolos están llenos de fluidos, pus, moco, y células pulmonares destruidas.
+
+La razón de tanta destrucción en los pulmones se encuentra en un fenómeno llamado cascada de citocinas, que puede ser interpretada como una reacción exagerada del sistema inmune. En esta cascada, los niveles de algunas citocinas se elevan demasiado, causando la destrucción de tejido sano. 
 
 ```markdown
 Syntax highlighted code block
