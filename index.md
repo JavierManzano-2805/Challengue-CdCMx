@@ -1,3 +1,5 @@
+colortheme: "dolphin"
+
 ## SARS-COV2 AL DESCUBIERTO
 Imagen SARS
 
