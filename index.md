@@ -12,7 +12,7 @@ Imagen SARS
 
 ### Ciclo Viral del SARS-COV2
 
-![Ciclo viral SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/gh-pages/Ciclo%20viral%20SARS-COV2.png)
+![Ciclo viral SARS-COV2](https://github.com/JavierManzano-2805/Challengue-CdCMx/blob/master/Ciclo%20viral%20SARS-COV2.png)
                 
         
                 
